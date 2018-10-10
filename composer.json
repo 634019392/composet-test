@@ -1,0 +1,14 @@
+{
+    "name": "634019392/composet-test",
+    "description": "test composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ll",
+            "email": "634019392@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
